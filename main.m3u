@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-03-10 12:44:59 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-03-10 18:39:17 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -331,7 +331,7 @@ https://m3u.8088y.fun/jtvp/Thanthi_One.mpd?tk=testing
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+#KODIPROP:inputstream.adaptive.license_key=00b981848b1a5d979668260a22bd4ae1:c74650e08f78101679685f459ba6e8d4
 #EXTINF:-1 tvg-id="ts272" tvg-name="Polimer TV" tvg-logo="https://tatalogo.pages.dev/272.png" group-title="Entertainment", Polimer TV
 https://m3u.8088y.fun/jtvp/Polimer_TV.mpd?tk=testing
 #KODIPROP:inputstream=inputstream.adaptive
@@ -10425,10 +10425,22 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="140856" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140856_5647_MZ_GW_FC-Web_1772186975986.png" tvg-language="english" group-title="Fancode Events",ENG | Football - Machida Zelvia Vs Gangwon (1080p)
-https://in-mc-flive.fancode.com/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773225863~_GO=Generated~acl=/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/*~Signature=AQQqLwQWSfVs1bgUmBFDBxIDmOprL3zaNUn8Bel1UNrx_chmFL1sDq-00w3VS2d29mIxr-MvOuWRTTx5fpI-w02FgdcN|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140857" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140857_5647_BU_MLC_FC-Web_1772186976696.png" tvg-language="english" group-title="Fancode Events",ENG | Football - Buriram United Vs Melbourne City (1080p)
-https://in-mc-flive.fancode.com/mumbai/140857_english_hls_215870cfbc619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773230361~_GO=Generated~acl=/mumbai/140857_english_hls_215870cfbc619_1ta-di_h264/*~Signature=AQQqLwQ-cUN-iB5DTLfBQ4fLUKtJWrukuqO_OtjluTO3MqiW-5g9NnrtVQRvQ4W9Not-5LAYWQUX-TBXxz-eLDB2xCcA|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141024" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Tennis - B Court Feed (1080p)
+https://in-mc-flive.fancode.com/mumbai/141024_english_hls_38374e3ee254830_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773251054~_GO=Generated~acl=/mumbai/141024_english_hls_38374e3ee254830_1ta-di_h264/*~Signature=AQQqLwQed9_7jqXSxpJVDNwDpPJMTCY2Q3niK810MWhb6Zup4A3X7Sc-13lrIOcKZfNCIJ5GAl9ylBlT0pcXy7guXUEI|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141254" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Tennis - C Court Feed (1080p)
+https://in-mc-flive.fancode.com/mumbai/141254_english_hls_30bd8b7a9424972_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773251064~_GO=Generated~acl=/mumbai/141254_english_hls_30bd8b7a9424972_1ta-di_h264/*~Signature=AQQqLwTFOPY-quLcHYhn0jjca80FCpmJsbBRM88-hALQaGC-dFm2wXrX9s20C3ea-eI0k9gkkkWbrrdTUGa6FpByN0MK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141253" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Tennis - World Feed (1080p)
+https://in-mc-flive.fancode.com/mumbai/141253_english_hls_8c2e2a716f52844_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773251071~_GO=Generated~acl=/mumbai/141253_english_hls_8c2e2a716f52844_1ta-di_h264/*~Signature=AQQqLwTwIcdZYC0bcT7wxesZ2ehxp3tLDnrVwQv851Liiuq-q36nvmXbFzMYkRgCpGNs4MlGwmvp8r8Q2n2-8aFK9QMD|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="1090505917" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1773189004~acl=/*~id=60491029712304261238031154076179~hmac=f15e5d297fa41ca30fded3e34fb0bfca40b34112b375ea4a3379929a2d803b92|User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; X9; Build/NRD90M)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5b5e4fbd29170108295882c6b61788b7-1773166200127
+#EXTINF:-1 tvg-id="1090505917" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1773189004~acl=/*~id=60491029712304261238031154076179~hmac=f15e5d297fa41ca30fded3e34fb0bfca40b34112b375ea4a3379929a2d803b92|User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; X9; Build/NRD90M)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5b5e4fbd29170108295882c6b61788b7-1773166200127
+#EXTINF:-1 tvg-id="1090505917" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" tvg-language="Tamil" group-title="Sliv events",TAM | Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1773189004~acl=/*~id=60491029712304261238031154076179~hmac=f15e5d297fa41ca30fded3e34fb0bfca40b34112b375ea4a3379929a2d803b92|User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; X9; Build/NRD90M)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5b5e4fbd29170108295882c6b61788b7-1773166200127
+#EXTINF:-1 tvg-id="1090505917" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010341852551_UCL26_R16_leg1_Galatasaray_vs_Liverpool_8mar_eng_landscape_thumb.jpg" tvg-language="Telugu" group-title="Sliv events",TEL | Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1773189004~acl=/*~id=60491029712304261238031154076179~hmac=f15e5d297fa41ca30fded3e34fb0bfca40b34112b375ea4a3379929a2d803b92|User-Agent=com.sonyliv/6.22.4 (Android 7; en_GB; X9; Build/NRD90M)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5b5e4fbd29170108295882c6b61788b7-1773166200127
+#EXTINF:-1 tvg-id="1090498688" tvg-name="Shark Tank India" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015600/1772043167046566_STI_S5_25feb_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | Shark Tank India
+https://sonymtmnew.akamaized.net/hls/live/2094590/DAI25ME-STI/master.m3u8?hdnea=exp=1773189004~acl=/*~id=60491029712304261238031154076179~hmac=f15e5d297fa41ca30fded3e34fb0bfca40b34112b375ea4a3379929a2d803b92|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; ASUS_I005DA; Build/RKQ1.210303.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5b5e4fbd29170108295882c6b61788b7-1773166200127
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
