@@ -28,7 +28,6 @@ jobs:
           # YOUR PLAYLISTS - Add/modify as needed
           playlists["AKIL_SOURCE"]="https://raw.githubusercontent.com/codedbyakil/Yogi/refs/heads/main/main.m3u"
           playlists["SuNxt"]="https://mahabuburbd.netlify.app/sun-next.m3u"
-          playlists["Backup1"]="https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/main.m3u"
           playlists["Opplex"]="https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u"
           playlists["SPORTS"]="https://example.com/sports.m3u"
           playlists["MOVIES"]="https://example.com/movies.m3u"
