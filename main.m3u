@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-03-11 12:43:59 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-03-11 18:46:05 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -10178,44 +10178,10 @@ http://199.168.96.106:1935/blessingtv-tamillive/mystream/playlist.m3u8
 https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="arram_tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733831106_IMG-20241210-WA0197.jpg" group-title="Local Channels",Arram Tv
 http://hdstreambox.in:1935/Arramtv/livetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Hotstar 4K Tamil
-https://live12p.akt.hotstar-cdn.net/cmaf/live/2108400/inallow-icct20wc-2026/tam/1540062397/15mindvrm013a4e2de894204cfc98f4f64e2f73affc08march2026/master_a.m3u8|cookie=hdntl=exp=1773059401~acl=/*~data=hdntl~hmac=9d0990cfc91f24a77ae62ca534e62b5f805ee177d8932f8d187fe50abf6c6475&user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)&referer=https://www.hotstar.com&origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Hotstar 4K English
-https://live11p.akt.hotstar-cdn.net/cmaf/live/2108387/inallow-icct20wc-2026/eng/1540062397/15mindvrm013a4e2de894204cfc98f4f64e2f73affc08march2026/master_a.m3u8|cookie=hdntl=exp=1773059401~acl=/*~data=hdntl~hmac=9d0990cfc91f24a77ae62ca534e62b5f805ee177d8932f8d187fe50abf6c6475&user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)&referer=https://www.hotstar.com&origin=https://www.hotstar.com
-#EXTINF:-1 tvg-id="1106" group-title="IND vs NZ | FINAL" tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900", Hotstar 1080p Tamil
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
-https://c2ag.short.gy/n/tamil.m3u8
-#EXTINF:-1 tvg-id="STAR.SPORTS.1.TAMIL.HD.in" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Star Sports 1 Tamil HD (jtp)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-#EXTVLCOPT:http-user-agent=Exoplayer
-https://m3u.8088y.fun/jtvp/Star_Sports_1_Tamil_HD.mpd?tk=testing
-#EXTINF:-1 tvg-id="Star Sports 1 Tamil" tvg-name="Star Sports 1 Tamil" tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL",Star Sports 1 Tamil (jtp)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTVLCOPT:http-user-agent=Exoplayer
-https://m3u.8088y.fun/jtvp/Star_Sports_1_Tamil.mpd?tk=testing
-#EXTINF:-1 tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Star Sports 2 Tamil (jstar)
-https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|Cookie=hdntl=exp=1773046632~acl=%2f*~id=181e2000425492b3649d04d8edd95a17~data=hdntl~hmac=f5ba825856d733875f94fd8635e36107c46cdcd870e35d0d8d5d86e884640c55&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Origin=https%3A%2F%2Fwww.hotstar.com&Referer=https%3A%2F%2Fwww.hotstar.com%2F
-#EXTINF:-1 tvg-id="STAR.SPORTS.1.HD.in" tvg-name="Star Sports 1 HD" tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Star Sports 1 HD 50fps
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTVLCOPT:http-user-agent=Exoplayer
-https://m3u.8088y.fun/jtvp/Star_Sports_1_HD.mpd?tk=testing
-#EXTINF:-1 tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Star Sports 1 (jstar)
-https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd?tk=testing?|Cookie=hdntl=exp=1773046259~acl=*sshd1livetv*~id=6492b53c266835ec239d3edf1eb42cf8~data=hdntl~hmac=40a5aa4b3a7f7718ce76385e28da18b733a7b9129d42db78fb265788a174790b&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
-#EXTINF:-1 tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Prime English
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd|drmScheme=clearkey&drmLicense=470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b
-#EXTINF:-1 tvg-id="" tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Prime English 50fps
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/285xdypigu/out/v1/41e86c3d386a4406afb3620876274222/cenc.mpd?
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab
-#EXTINF:-1 tvg-id="" tvg-logo="https://im.rediff.com/cricket/2026/mar/06final-india-nz.jpg?w=670&h=900" group-title="IND vs NZ | FINAL", Prime English 50fps (backup)
-#EXTVLCOPT:http-user-agent=Denver1769
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd?
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="Schedule Announcement: TATA IPL 2026", Hotstar Tamil
+https://live07.hotstar.com/hls/live/2034629/inallow-ftb-2025/tam/1540065427/15mindvrm019fa76930170b4e7fb458b96aaec6aa7c11march2026/master_ap_1080_6.m3u8|cookie=hdntl=exp=1773278830~acl=%2F*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d&user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)&referer=https://www.hotstar.com&origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="Schedule Announcement: TATA IPL 2026", Hotstar English
+https://live07.hotstar.com/hls/live/2034621/inallow-ftb-2025/eng/1540065427/15mindvrm019fa76930170b4e7fb458b96aaec6aa7c11march2026/master_ap_1080_6.m3u8|cookie=hdntl=exp=1773278830~acl=%2F*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d&user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)&referer=https://www.hotstar.com&origin=https://www.hotstar.com
 -------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="STAR.SPORTS.1.TAMIL.HD.in" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png" group-title="Sports", Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10425,18 +10391,20 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="141406" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Pakistan Vs Bangladesh (1080p)
-https://in-mc-flive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773301877~_GO=Generated~acl=/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/*~Signature=AQQqLwTTSevlIg2v8srf35FUbK-X7kJqmsvKmP_PG-bZK4SRU-pWk97kYGIF7FhAnsRUM-WeMJx9RamRsjXADZoNG4UN|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141264" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Cag Delhi Vs Ncc Odisha (1080p)
-https://in-mc-flive.fancode.com/mumbai/141264_english_hls_c58cd066a148302_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773302306~_GO=Generated~acl=/mumbai/141264_english_hls_c58cd066a148302_1ta-di_h264/*~Signature=AQQqLwTZI9NSmBDvDbzzyl3xkeeo7A9JduU_-ACPvpLajrurqCVFaGJYiGY3nUnxT5mondgIlet5OCxc70ADjZhGt9AD|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141189" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Rajasthan Emperors Vs Tamil Nadu Titans (1080p)
-https://in-mc-flive.fancode.com/mumbai/141189_english_hls_b0b260f4a193501_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773307579~_GO=Generated~acl=/mumbai/141189_english_hls_b0b260f4a193501_1ta-di_h264/*~Signature=AQQqLwS2fsl5o49EyPIygHC06Cr4ASgtLPYxtab1dEESUMTNxo7kU8DYywQDKDlTpjvbT3YAgbwL9tLqfCkAR3MD7hYH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140861" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png" tvg-language="english" group-title="Fancode Events",ENG | Football - Sanfrecce Hiroshima Vs Johor Darul Ta'zim (1080p)
-https://in-mc-flive.fancode.com/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773308659~_GO=Generated~acl=/mumbai/140861_english_hls_02d17dae4218994_1ta-di_h264/*~Signature=AQQqLwRSFLSq9mvx1c_O8itE3W5xJwKrsIute4-RPVuBctVnBXWAXn2RU0V4y6J6gve69ngjhKOgogKR29VRzBI0eJYO|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140860" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png" tvg-language="english" group-title="Fancode Events",ENG | Football - Vissel Kobe Vs Seoul (1080p)
-https://in-mc-flive.fancode.com/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773308670~_GO=Generated~acl=/mumbai/140860_english_hls_4285f8145099209_1ta-di_h264/*~Signature=AQQqLwTxZvxSJyL9BF2r-YZYTL2xhncD75JQpNVSKG5R4cP3LqMwVSgV5FSW0wI6gv6UXzDsPIaKflmnuIgCJG32VQQO|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133949" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Tasmania Vs New South Wales (1080p)
-https://in-mc-pdlive.fancode.com/mumbai/133949_english_hls_cd4d04ca1b11742_1ta-di_h264/1080p.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141027" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Tennis - World Feed (1080p)
+https://in-mc-flive.fancode.com/mumbai/141027_english_hls_59c637dc3599675_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773337450~_GO=Generated~acl=/mumbai/141027_english_hls_59c637dc3599675_1ta-di_h264/*~Signature=AR77L-YYJDQAzHEd59u8Q62bcFtZJgybQEQRL1a2iWD4SK7zzSEwdLWHPLlV0voyKk_Nh8CJKJUTh3j52VBzEp9rfvcH|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141026" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Tennis - A Court Feed (1080p)
+https://in-mc-flive.fancode.com/mumbai/141026_english_hls_4f8e77f3db2561_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773337459~_GO=Generated~acl=/mumbai/141026_english_hls_4f8e77f3db2561_1ta-di_h264/*~Signature=AR77L-ZaqBaFVopjAW5dUO8e2RVpvS46WB263NUJbEtDoIUt1I60Fz7sd8DzGTfqDeRIt_gjQ2MVsAIzC_SrI6Qw_lYE|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141025" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Tennis - B Court Feed (1080p)
+https://in-mc-flive.fancode.com/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773338292~_GO=Generated~acl=/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/*~Signature=AR77L-YyAkf385sEy8ygMTfUdhgAvsf6jZxrt1oQwTavEc9XjQV10566Q9_R__9vg_AnQvjyK9eDUgxPQO5vFqyKDnsN|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="1090506078" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016048/1773214402906914_UCL_26_RD16_L1_Leverkusen-vs-Arsenal_landscape_thumb_sponsor.jpg" tvg-language="English" group-title="Sliv events",ENG | Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1773275584~acl=/*~id=23b1ca2bd4118fc8754130ed36f62f0d-1773232370001~hmac=71983462c7f5241e68c7cd84a50920e25284733ddc18e6334b48049215ad69d9|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; A95X MAX; Build/A95X_MAX)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f791205dfef93d3ee229f6737d4971a4-1773252600111
+#EXTINF:-1 tvg-id="1090506078" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016048/1773214402906914_UCL_26_RD16_L1_Leverkusen-vs-Arsenal_landscape_thumb_sponsor.jpg" tvg-language="Hindi" group-title="Sliv events",HIN | Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1773275584~acl=/*~id=23b1ca2bd4118fc8754130ed36f62f0d-1773232370001~hmac=71983462c7f5241e68c7cd84a50920e25284733ddc18e6334b48049215ad69d9|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; A95X MAX; Build/A95X_MAX)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f791205dfef93d3ee229f6737d4971a4-1773252600111
+#EXTINF:-1 tvg-id="1090506078" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016048/1773214402906914_UCL_26_RD16_L1_Leverkusen-vs-Arsenal_landscape_thumb_sponsor.jpg" tvg-language="Tamil" group-title="Sliv events",TAM | Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1773275584~acl=/*~id=23b1ca2bd4118fc8754130ed36f62f0d-1773232370001~hmac=71983462c7f5241e68c7cd84a50920e25284733ddc18e6334b48049215ad69d9|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; A95X MAX; Build/A95X_MAX)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f791205dfef93d3ee229f6737d4971a4-1773252600111
+#EXTINF:-1 tvg-id="1090506078" tvg-name="UEFA Champions League 2025-26" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016048/1773214402906914_UCL_26_RD16_L1_Leverkusen-vs-Arsenal_landscape_thumb_sponsor.jpg" tvg-language="Telugu" group-title="Sliv events",TEL | Leverkusen vs Arsenal - Round Of 16 - Leg 1 - 11 Mar 2026
+https://sonymtmnew.akamaized.net/hls/live/2022319/DAI15ME-V3/master.m3u8?hdnea=exp=1773275584~acl=/*~id=23b1ca2bd4118fc8754130ed36f62f0d-1773232370001~hmac=71983462c7f5241e68c7cd84a50920e25284733ddc18e6334b48049215ad69d9|User-Agent=com.sonyliv/6.22.4 (Android 8; en_GB; A95X MAX; Build/A95X_MAX)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f791205dfef93d3ee229f6737d4971a4-1773252600111
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
