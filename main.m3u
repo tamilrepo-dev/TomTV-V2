@@ -1,5 +1,5 @@
 #EXTM3U
-# ===== COMBINED PLAYLIST - Generated on 2026-03-13 06:43:35 UTC =====
+# ===== COMBINED PLAYLIST - Generated on 2026-03-13 12:42:40 UTC =====
 
 # ===== Opplex =====
 # Source: https://raw.githubusercontent.com/codedbyakil/Mac/refs/heads/main/Opplex.m3u
@@ -651,10 +651,13 @@ https://m3u.8088y.fun/local/rasi_lifestyle_hd.mpd?tk=testing
 #KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
 #EXTINF:-1 tvg-id="sun194390" tvg-name="Chutti TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11278-j9j4h4s0-v1/imageContent-11278-j9j4h4s0-m1.png" group-title="Kids", Chutti TV
 https://m3u.8088y.fun/sxt/Chutti_TV.mpd?tk=testing
-#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids", Cartoon Network HD
-https://servertvhub.site/jio/app/ts_live_1081.m3u8?tk=testing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfdcfe466f865e51ac6b9345a03478fc:4cfddb414841586f0f992f2810ec2931
+#KODIPROP:inputstream.adaptive.license_key=83997e19da7f5b15a53c150730a91f31:605f420d088427d95b55275eb174b734
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://tatalogo.pages.dev/681.png" group-title="Kids", Cartoon Network HD
+https://m3u.8088y.fun/jtvp/CN_HD_Tamil.mpd?tk=testing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=553fc9bdb0115b24b23d04be203d1b9d:a220f0a32aaee1e6989ef8e6a6728fe1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" audio-track="2" tvg-logo="https://tatalogo.pages.dev/238.png" group-title="Kids", Cartoon Network
 https://m3u.8088y.fun/jtvp/Cartoon_Network_Tamil.mpd?tk=testing
@@ -673,15 +676,21 @@ https://m3u.8088y.fun/jtvp/Nick_HD.mpd?tk=testing
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="https://tatalogo.pages.dev/138.png" group-title="Kids", Nick Tamil
 https://m3u.8088y.fun/jtvp/Nick_Tamil.mpd?tk=testing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=527df4ddb18a530db7565fff6c06263f:b4ca95df03a230ba8e23a7226de77d05
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" audio-track="2" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Kids", Discovery Kids
-https://servertvhub.site/jio/app/ts_live_550.m3u8?tk=testing
+https://m3u.8088y.fun/jtvp/Discovery_Kids_Tamil.mpd?tk=testing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d19984624fc15209b3cb5cf3bf99232f:baca6aa9494ed43cf02975eda742eeab
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" audio-track="9" tvg-logo="https://tatalogo.pages.dev/239.png" group-title="Kids", Pogo Tamil
 https://m3u.8088y.fun/jtvp/Pogo_Tamil.mpd?tk=testing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e28fc2f196045ad5a74c7eee8e4973f3:41e9517d0be1f231017a04ad93a866a1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 #EXTINF:-1 tvg-id="45" tvg-name="Sony YAY" audio-track="3" tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids", Sony YAY
-https://m3u.8088y.fun/sliv/SONY_YAY.m3u8?tk=testing
+https://m3u.8088y.fun/jtvp/Sony_Yay_tamil.mpd?tk=testing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
@@ -1954,6 +1963,8 @@ https://southsidefmkzn.out.airtime.pro/southsidefmkzn_a
 #EXTINF:-1 type="radio" group-title="Radio", Lankasri FM - UK
 http://media2.lankasri.fm/;stream.mp3
 =============================NEW RELEASE============================
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NhMDM5MTktYjYwMS00OTMzLWFmZjgtYjNlMjdhMGQ2N2VmXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg" type="movie" group-title="New Release", Funky 2026
+https://pixeldrain.dev/api/file/6mq7B4Ex?download
 #EXTINF:-1 tvg-logo="https://occ-0-4994-2164.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABT8bC2Kth_-R58bFmWZxqzCUCg9JoFX76m_rlsOBPQYT7KkV_hwYH1zfj0NZTPziXwJeOsM0LkL6y84JXuj-n5GTv91aO02N_Mo2.webp?r=696" type="movie" group-title="New Release",With Love
 https://pixeldrain.dev/api/file/AgboPjEU?download
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTJkYmVhNTctODE1MS00ZGMyLTliZjctNDllNzljNzQ3NThmXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg" type="movie" group-title="New Release", Andhra King Taluka
@@ -2002,6 +2013,8 @@ https://next.rajtamil.org/1TamilYogi.sarl%20-%20Superman%20(2025)%20Tamil%20HD%2
 https://neo4.rajtamil.org/1TamilYogi.hiphop%20-%20Jurassic%20World%20Rebirth%20(2025)%20Tamil%20HD%20720p.mkv
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/165835/640x360_Enthiran4K_165835_c5afa780-0082-48a0-9f62-095b89b01159.jpg" type="movie" group-title="New Release",Enthiran
 https://pixeldrain.dev/api/file/9DXZEbFg?download
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg2YTY0MjctMDkwYS00YWZhLWE5ZGYtNDBhZWI3NWY0NDlmXkEyXkFqcGc@._V1_QL75_UY422_CR12,0,285,422_.jpg" type="movie" group-title="New Release", 24 2016
+https://klorok.b-cdn.net/24_(2016)_HDRip_.mp4
 =============================PRIME VIDEO============================
 #EXTINF:-1 type="movie" group-title="Prime Video" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJlNmY3NzctZDYwMC00NTE0LWJmZTMtMzllNmRmYzJmZDNhXkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg", Madharaasi (2025)
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
@@ -10178,10 +10191,6 @@ http://199.168.96.106:1935/blessingtv-tamillive/mystream/playlist.m3u8
 https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="arram_tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733831106_IMG-20241210-WA0197.jpg" group-title="Local Channels",Arram Tv
 http://hdstreambox.in:1935/Arramtv/livetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="Schedule Announcement: TATA IPL 2026", Hotstar Tamil
-https://live07.hotstar.com/hls/live/2034629/inallow-ftb-2025/tam/1540065427/15mindvrm019fa76930170b4e7fb458b96aaec6aa7c11march2026/master_ap_1080_6.m3u8|cookie=hdntl=exp=1773278830~acl=%2F*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d&user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)&referer=https://www.hotstar.com&origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="Schedule Announcement: TATA IPL 2026", Hotstar English
-https://live07.hotstar.com/hls/live/2034621/inallow-ftb-2025/eng/1540065427/15mindvrm019fa76930170b4e7fb458b96aaec6aa7c11march2026/master_ap_1080_6.m3u8|cookie=hdntl=exp=1773278830~acl=%2F*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d&user-agent=Hotstar;in.startv.hotstar/25.11.24.0.4237 (Android/13)&referer=https://www.hotstar.com&origin=https://www.hotstar.com
 -------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="STAR.SPORTS.1.TAMIL.HD.in" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png" group-title="Sports", Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10391,14 +10400,22 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?tk=testing?
-#EXTINF:-1 tvg-id="141358" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141358_6007_HT_GW_FC-Web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Hindon Titans Vs Ganga Warriors (1080p)
-https://in-mc-flive.fancode.com/mumbai/141358_english_hls_2530535f0e4978_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773465471~_GO=Generated~acl=/mumbai/141358_english_hls_2530535f0e4978_1ta-di_h264/*~Signature=AR77L-avXtjUzo0dP4PlHvPA7qktY5Cub2uJN-UBivcbVAMoyzpMAmeRlT4iiA8oShw72ZSayJtyLs94koqxc4LH6VYL|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="141193" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Rajasthan Emperors Vs Bengal Royals (1080p)
-https://in-mc-flive.fancode.com/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773465480~_GO=Generated~acl=/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/*~Signature=AR77L-btSGq94TrinpEdKMxwbHprxWKqw5EwOcbZGpERz3BgpsNJXBvC-Bn3xkj50fWiCkc9OBAMn-y4Tuw6cAWCzVcN|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133988" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Act Meteors Vs Western Australia Women (1080p)
-https://in-mc-plive.fancode.com/mumbai/133988_english_hls_0360602bd646682_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773467051~_GO=Generated~acl=/mumbai/133988_english_hls_0360602bd646682_1ta-di_h264/*~Signature=AR77L-bSHr8WMbGcioDx5t3KsjdClkz-fxH7I7_w0KUa9qGjSr1WBulIYQOMB6sb7h-rxvzs1NNUtukzj1DY1H1ZFNgN|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="140788" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(9).png" tvg-language="english" group-title="Fancode Events",ENG | Golf - Day 2 (1080p)
-https://in-mc-plive.fancode.com/mumbai/140788_english_hls_196719c55e83921_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773465489~_GO=Generated~acl=/mumbai/140788_english_hls_196719c55e83921_1ta-di_h264/*~Signature=AR77L-bgLeKBvLhfoTypyjVssdHh9SMRJWTfvcgtwV_xxv9a7ahnpBh0HOEpSBUxP1puystS0wtw_hY1zYcUnstpVI8I|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141407" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Pakistan Vs Bangladesh (1080p)
+https://in-mc-flive.fancode.com/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773474245~_GO=Generated~acl=/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/*~Signature=AR77L-Yyr9Cdj5X_0so3HpmxTUDWXrASgqUxhTGBOrJaU6SPgB5oUrj5FOVZ7FqeaDZnyCZIHYhGDYKbrr-wcsI214oJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141267" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Ncc Odisha Vs Nexage Hyderabad (1080p)
+https://in-mc-flive.fancode.com/mumbai/141267_english_hls_4a4650040065593_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773487162~_GO=Generated~acl=/mumbai/141267_english_hls_4a4650040065593_1ta-di_h264/*~Signature=AR77L-bKp2zmbXPuPpOVq53j-7x-Uuck6eMNd7XuCXTzIQoB2VGZmyRgwqDeUpGAQEBSeWdfSiOlu-o7v7zghSoGdfcB|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141195" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Gujarat Tigers Vs Bengal Royals (1080p)
+https://in-mc-flive.fancode.com/mumbai/141195_english_hls_6f3dfc540571747_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773480366~_GO=Generated~acl=/mumbai/141195_english_hls_6f3dfc540571747_1ta-di_h264/*~Signature=AR77L-asxMYxKCDTYZEe_S0M9tF14vHRzD4aT89ZpSoneW5gWZLtp6-1afacMaU0fdv8Sm2ASiFt_jP2XRpuzctiLtgD|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="140812" tvg-logo="https://images.fancode.com/aig/match/v1773379970336/140812_CASACARDS_APP.png" tvg-language="english" group-title="Fancode Events",ENG | Football - Australia Women Vs Dpr Korea Women (1080p)
+https://in-mc-flive.fancode.com/mumbai/140812_english_hls_b2199af4ff86953_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773481866~_GO=Generated~acl=/mumbai/140812_english_hls_b2199af4ff86953_1ta-di_h264/*~Signature=AR77L-a1MuBO4je6ORxS3AhwR9E8cgQ0vYjz8ek9Vfg5veYC18sSs_QdVGnNru98jmFJyMauWCaCbQaaKHFWCGxeEvoM|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141140" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Golf - Main Feed   Day 2 (1080p)
+https://in-mc-flive.fancode.com/mumbai/141140_english_hls_50bdf9501b67602_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773486863~_GO=Generated~acl=/mumbai/141140_english_hls_50bdf9501b67602_1ta-di_h264/*~Signature=AR77L-Zlp9M1DrnyxyaUg_-I89OHbGiN9kFByL2NVENeEZfTe_lGzVJ402JplNt7Ie-WRAU1PETBL21YihMomPm6rAkJ|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141142" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Golf - Featured Holes   Day 2 (1080p)
+https://in-mc-flive.fancode.com/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773402583~_GO=Generated~acl=/mumbai/141142_english_hls_2ec91a35fe90039_1ta-di_h264/*~Signature=AR77L-aapCveVODjjj6FAhoX8UlDNdC1nLWbQwCDCCtdt1xo9gNwXat17vBY1gshK4g3pL4NzU2R5T6lk-Ii0vOwBucD|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="141359" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141359_6007_BB_CC_FC-Web.jpg" tvg-language="english" group-title="Fancode Events",ENG | Cricket - Chambal Chargers Vs Betwa Blasters (1080p)
+https://in-mc-flive.fancode.com/mumbai/141359_english_hls_ee55ec5c7138452_1ta-di_h264/1080p.m3u8?hdntl=Expires=1773488656~_GO=Generated~acl=/mumbai/141359_english_hls_ee55ec5c7138452_1ta-di_h264/*~Signature=AR77L-aKHvHPbzqwVTFlMaM6pTqt8t10eJMG2KFtWQb_gHB0N_WjuQIcYEC_dC2Y8F4t0ua0SVFyNAxpi8baOs2N4DEK|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="1090506362" tvg-name="Indian Football League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016140/1773384099433718_IFC_Rajasthan_United_FC-vs-Namdhari_FC_landscape_thumb.jpg" tvg-language="English" group-title="Sliv events",ENG | Rajasthan United FC vs Namdhari FC - 13 Mar 2026
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master.m3u8?hdnea=exp=1773426602~acl=/*~id=90647311388186130488986985508650~hmac=bca58bb3d9ed445c2746cebe2db87a4c597ce5116d08e0396363bffb2bf1504e|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; KONKA 4K Android TV; Build/RTK4.241026.045)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3040e8edcafb6e27f7a9237f8aba0b77-1773401655828
 
 # ===== SuNxt =====
 # Source: https://mahabuburbd.netlify.app/sun-next.m3u
